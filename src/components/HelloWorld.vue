@@ -10,7 +10,7 @@
         <div>
           <h2>Erin Lindford</h2>
           <div>Customer Support</div>
-          <div>erinlindford@example.com</div>7
+          <div>erinlindford@example.com</div>
           <div>(555) 765-4321</div>
         </div>
       </div>
