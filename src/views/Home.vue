@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to TailwindCSS" />
+    <HelloWorld msg="Welcome to TailwindCSS 123" />
   </div>
 </template>
 
